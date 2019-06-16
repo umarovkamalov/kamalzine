@@ -36,7 +36,7 @@
                         <li class="dropdown">
                             <a class="dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-expanded="false">Blog</a>
                             <ul class="dropdown-menu" role="menu">
-                                <li><a href="">Категория</a></li>
+                                <li><a href="{{route('admin.category.index')}}">Категория</a></li>
                                 <li><a href="">Материалы</a></li>
                             </ul>
                         </li>
