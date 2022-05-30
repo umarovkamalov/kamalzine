@@ -1,0 +1,327 @@
+<!--<li class="dropdown mega-menu">
+        <a href="#" class="dropdown-link">
+            <span>Скидки </span>
+        </a>
+        <span class="expand">
+																														<i class="fa fa-angle-down hidden-xs"></i>
+																														<i class="fa fa-plus visible-xs"></i>
+																													</span>
+        <div class="dropdown-menu dropdown-menu-1 column-4" style="min-height: 100px; background: #ffffff;">
+            <div class="row">
+                <div class="mega-col mega-col-1 col-sm-3">
+                    <div class="dropdown mega-sub-link ">
+                        <a href="/">
+                            <span>Коллекции </span>
+                        </a>
+                        <span class="expand">
+																																		<i class="fa fa-angle-down hidden-xs"></i>
+																																		<i class="fa fa-plus visible-xs"></i>
+																																	</span>
+                        <ul class="dropdown-menu dropdown-menu-sub fix ">
+                            <li class="bp-item">
+                                <div class="sb-product-head">
+                                    <a href="#">
+                                        <img src="<?/*= Url::to('@web/')*/?>images/01_270x_2015.jpg" alt="Digital Download Product Example" />
+                                    </a>
+                                </div>
+                                <div class="sb-product-content">
+                                    <div class="bp-content-inner">
+                                        <a href="#">Пример цифрового продукта </a>
+                                        <div class="sb-price">
+																					<span class="price">
+														    							<span class="money">900.00 сум </span>
+																					</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="mega-col mega-col-2 col-sm-3">
+                    <div class="dropdown mega-sub-link ">
+                        <a href="/">
+                            <span>Продукты </span>
+                        </a>
+                        <span class="expand">
+																																			<i class="fa fa-angle-down hidden-xs"></i>
+																																			<i class="fa fa-plus visible-xs"></i>
+																																		</span>
+                        <ul class="dropdown-menu dropdown-menu-sub fix ">
+                            <li class="bp-item">
+                                <div class="sb-product-head">
+                                    <a href="#">
+                                        <img src="<?/*= Url::to('@web/')*/?>images/02_270x.jpg" alt="Coneco Product Sample" />
+                                    </a>
+                                </div>
+                                <div class="sb-product-content">
+                                    <div class="bp-content-inner">
+                                        <a href="#">Coneco Product Sample </a>
+                                        <div class="sb-price">
+																																								<span class="price">
+																																									<span class="money">$310.00 </span>
+																																								</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="mega-col mega-col-3 col-sm-3">
+                    <div class="dropdown mega-sub-link ">
+                        <a href="/">
+                            <span>Bestseller </span>
+                        </a>
+                        <span class="expand">
+																																				<i class="fa fa-angle-down hidden-xs"></i>
+																																				<i class="fa fa-plus visible-xs"></i>
+																																			</span>
+                        <ul class="dropdown-menu dropdown-menu-sub fix ">
+                            <li class="bp-item">
+                                <div class="sb-product-head">
+                                    <a href="#">
+                                        <img src="<?/*= Url::to('@web/')*/?>images/03_1_270x.jpg" alt="Daltex Product Example" />
+                                    </a>
+                                </div>
+                                <div class="sb-product-content">
+                                    <div class="bp-content-inner">
+                                        <a href="#">Daltex Product Example </a>
+                                        <div class="sb-price">
+																																									<span class="price">
+																																										<span class="money">$200.00 </span>
+																																									</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="mega-col mega-col-4 col-sm-3">
+                    <div class="dropdown mega-sub-link ">
+                        <a href="/">
+                            <span>Clearance Sale </span>
+                        </a>
+                        <span class="expand">
+																																					<i class="fa fa-angle-down hidden-xs"></i>
+																																					<i class="fa fa-plus visible-xs"></i>
+																																				</span>
+                        <ul class="dropdown-menu dropdown-menu-sub fix ">
+                            <li class="bp-item">
+                                <div class="sb-product-head">
+                                    <a href="#">
+                                        <img src="<?/*= Url::to('@web/')*/?>images/04_270x.jpg" alt="Digital Download Product with License Key" />
+                                    </a>
+                                </div>
+                                <div class="sb-product-content">
+                                    <div class="bp-content-inner">
+                                        <a href="#">Digital Download Product with  Key </a>
+                                        <div class="sb-price">
+																																										<span class="price">
+																																											<span class="money">900.00 сум </span>
+																																										</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>-->
+
+
+    <!--
+    <li class="dropdown mega-menu">
+            <a href="collections.html" class="dropdown-link">
+                <span>Бренды </span>
+            </a>
+            <span class="expand">
+    																																		<i class="fa fa-angle-down hidden-xs"></i>
+    																																		<i class="fa fa-plus visible-xs"></i>
+    																																	</span>
+            <div class="dropdown-menu dropdown-menu-2 column-4" style="min-height: 100px; background: #ffffff;">
+                <div class="row">
+                    <div class="mega-col mega-col-1 col-sm-3">
+                        <div class="dropdown mega-sub-link ">
+                            <a href="/">
+                                <span>Все виды </span>
+                            </a>
+                            <span class="expand">
+    																																						<i class="fa fa-angle-down hidden-xs"></i>
+    																																						<i class="fa fa-plus visible-xs"></i>
+    																																					</span>
+                            <ul class="dropdown-menu dropdown-menu-sub">
+                                <li>
+                                    <a href="#">Arts & Photography </a>
+                                </li>
+                                <li>
+                                    <a href="#">Biographies & Memoirs </a>
+                                </li>
+                                <li>
+                                    <a href="#">Children's Bookds </a>
+                                </li>
+                                <li>
+                                    <a href="#">Cookbook. Food & Wine </a>
+                                </li>
+                                <li>
+                                    <a href="#">History </a>
+                                </li>
+                                <li>
+                                    <a href="#">Literature & Fiction </a>
+                                </li>
+                                <li>
+                                    <a href="#">Mystery & Suspense </a>
+                                </li>
+                                <li>
+                                    <a href="#">Romance </a>
+                                </li>
+                                <li>
+                                    <a href="#">Sci-Fi & Fantasy </a>
+                                </li>
+                                <li>
+                                    <a href="#">Teen & Young Adult </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="mega-col mega-col-2 col-sm-3">
+                        <div class="dropdown mega-sub-link ">
+                            <a href="/">
+                                <span>Продукты </span>
+                            </a>
+                            <span class="expand">
+    																																						<i class="fa fa-angle-down hidden-xs"></i>
+    																																						<i class="fa fa-plus visible-xs"></i>
+    																																					</span>
+                            <ul class="dropdown-menu dropdown-menu-sub">
+                                <li>
+                                    <a href="#">Black Fashion Zapdram </a>
+                                </li>
+                                <li>
+                                    <a href="#">Coneco Product sample </a>
+                                </li>
+                                <li>
+                                    <a href="#">Daltex Product Example </a>
+                                </li>
+                                <li>
+                                    <a href="#">Donkix Product Sample </a>
+                                </li>
+                                <li>
+                                    <a href="#">Finity Product Sample </a>
+                                </li>
+                                <li>
+                                    <a href="#">Fixair Product Sample </a>
+                                </li>
+                                <li>
+                                    <a href="#">Flexlam Product Sample </a>
+                                </li>
+                                <li>
+                                    <a href="#">Geous White Bag </a>
+                                </li>
+                                <li>
+                                    <a href="#">Geous White Dresses </a>
+                                </li>
+                                <li>
+                                    <a href="#">Golddax Product Example </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="mega-col mega-col-3 col-sm-3">
+                        <div class="dropdown mega-sub-link ">
+                            <a href="/">
+                                <span>Общие мебели </span>
+                            </a>
+                            <span class="expand">
+    																																						<i class="fa fa-angle-down hidden-xs"></i>
+    																																						<i class="fa fa-plus visible-xs"></i>
+    																																					</span>
+                            <ul class="dropdown-menu dropdown-menu-sub">
+                                <li>
+                                    <a href="#">New Releases </a>
+                                </li>
+                                <li>
+                                    <a href="#">Best Sellers </a>
+                                </li>
+                                <li>
+                                    <a href="#">Our Favourites </a>
+                                </li>
+                                <li>
+                                    <a href="#">Reference Guides </a>
+                                </li>
+                                <li>
+                                    <a href="#">Faculty Authors </a>
+                                </li>
+                                <li>
+                                    <a href="#">Medical Books </a>
+                                </li>
+                                <li>
+                                    <a href="#">UBC Exclusive </a>
+                                </li>
+                                <li>
+                                    <a href="#">First Nations Studies </a>
+                                </li>
+                                <li>
+                                    <a href="#">High School </a>
+                                </li>
+                                <li>
+                                    <a href="#">For Librarians and Teachers </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="mega-col mega-col-4 col-sm-3">
+                        <div class="dropdown mega-sub-link banners ">
+                            <a href="/">
+                                <span>Banner Image </span>
+                            </a>
+                            <span class="expand">
+    																																						<i class="fa fa-angle-down hidden-xs"></i>
+    																																						<i class="fa fa-plus visible-xs"></i>
+    																																					</span>
+                            <ul class="dropdown-menu dropdown-menu-sub">
+                                <li>
+                                    <a href="collections.html">
+                                        <img src="<?/*= Url::to('@web/')*/?>images/mega_menu_2_image_col_4.jpg" alt="" />
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>--><!--
+        <li class="dropdown">
+            <a href="#" class="dropdown-link">
+                <span>Помощь </span>
+            </a>
+            <span class="expand">
+    																																			<i class="fa fa-angle-down hidden-xs"></i>
+    																																			<i class="fa fa-plus visible-xs"></i>
+    																																		</span>
+            <ul class="dropdown-menu">
+                <li>
+                    <a tabindex="-1" href="<?/*= Url::toRoute(['/contact/index']);*/?>">
+                        <span>Свяжитесь с нами </span>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="-1" href="/index.php?route=information/information&amp;information_id=4">
+                        <span>О нас </span>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="-1" href="pages/limited-offer-time.html">
+                        <span>Ограниченное время предложения </span>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="-1" href="apps/help-center.html">
+                        <span>Вопросы и ответы </span>
+                    </a>
+                </li>
+            </ul>
+        </li>-->
